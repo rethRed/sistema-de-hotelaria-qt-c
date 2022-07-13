@@ -1,4 +1,5 @@
-# sistema-de-hortelaria-qt-c
-sistema de hotelaria feito em qt c++ (descontinuado): esse sistema deveria se comunicar com a api feita em python, 
-e fazer a alterações necessarias no banco de dados, mas o sistema está oficialmente descontinuado por n motivos, 
-mas foi uma boa experiencia ter desenvolvido esse projeto.
+# Sistema de hotelaria em C++ Qt
+
+Sistema de hotelaria feito em Qt C++ (atualmente descontinuado): Esse sistema deveria se comunicar com a API feita em Python, 
+e fazer as alterações necessárias no banco de dados, mas o sistema está oficialmente descontinuado por vários motivos, 
+de qualquer forma, foi uma boa experiência o desenvolvimento desse projeto.
